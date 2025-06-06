@@ -66,5 +66,16 @@ namespace second_project
                 this.Close();
             }
         }
+
+        private void btnCadastro_Click(object sender, EventArgs e)
+        {
+            Form2 dois = new Form2();
+            dois.ShowDialog();
+        }
+
+        private void maskedTextBox1_MaskInputRejected(object sender, MaskInputRejectedEventArgs e)
+        {
+
+        }
     }
 }

@@ -101,6 +101,7 @@
             maskedTextBox1.Name = "maskedTextBox1";
             maskedTextBox1.Size = new Size(103, 23);
             maskedTextBox1.TabIndex = 6;
+            maskedTextBox1.MaskInputRejected += maskedTextBox1_MaskInputRejected;
             // 
             // lblDtNasc
             // 
@@ -148,6 +149,7 @@
             btnCadastro.TabIndex = 12;
             btnCadastro.Text = "Cadastrar";
             btnCadastro.UseVisualStyleBackColor = false;
+            btnCadastro.Click += btnCadastro_Click;
             // 
             // btnCancel
             // 

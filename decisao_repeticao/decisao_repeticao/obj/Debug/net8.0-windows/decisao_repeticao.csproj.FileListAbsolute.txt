@@ -1,0 +1,17 @@
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\bin\Debug\net8.0-windows\decisao_repeticao.exe
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\bin\Debug\net8.0-windows\decisao_repeticao.deps.json
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\bin\Debug\net8.0-windows\decisao_repeticao.runtimeconfig.json
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\bin\Debug\net8.0-windows\decisao_repeticao.dll
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\bin\Debug\net8.0-windows\decisao_repeticao.pdb
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.Form1.resources
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.csproj.GenerateResource.cache
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.AssemblyInfoInputs.cache
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.AssemblyInfo.cs
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.dll
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\refint\decisao_repeticao.dll
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.pdb
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.genruntimeconfig.cache
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\ref\decisao_repeticao.dll
+C:\Users\victor.ezaki\Documents\repos\decisao_repeticao\obj\Debug\net8.0-windows\decisao_repeticao.Form2.resources

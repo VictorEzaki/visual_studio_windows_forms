@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\victor.ezaki\\Documents\\repos\\second_project\\",
+  "WorkspaceRootPath": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\second_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\visual_studio_windows_forms\\second_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\visual_studio_windows_forms\\second_project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\second_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\visual_studio_windows_forms\\second_project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|c:\\users\\victor.ezaki\\documents\\repos\\visual_studio_windows_forms\\second_project\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{ED9D0031-1588-48F4-B33D-20D96F101A39}|second_project.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\second_project\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\second_project\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAtwAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T23:44:09.649Z",
+              "WhenOpened": "2025-06-05T22:48:38.037Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:41:34.014Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T00:40:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
-              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\second_project\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\second_project\\Form1.cs [Projeto]",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.cs [Projeto]",
               "RelativeToolTip": "Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T22:15:53.109Z",
+              "WhenOpened": "2025-06-05T00:40:03.976Z",
               "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-05T00:35:25.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\victor.ezaki\\Documents\\repos\\visual_studio_windows_forms\\second_project\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:44:09.649Z",
+              "EditorCaption": ""
             }
           ]
         }
